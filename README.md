@@ -490,6 +490,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![WhatsApp Image 2025-11-11 at 18 54 23_11c2afa2](https://github.com/user-attachments/assets/a1c41e2d-ba75-470b-983c-78d41317289c)
 
+
+<img width="1920" height="1200" alt="Screenshot 2025-11-05 114657" src="https://github.com/user-attachments/assets/d8d7db8d-af66-494f-8bd1-8689bcc38fde" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-11-05 114707" src="https://github.com/user-attachments/assets/dd052b8f-de25-425e-98d8-0c85053c8819" />
+
+
+
 ## Result :
 
 Thus ADC channel for interfacing an analog sensor has been configured and the values on the com port has been read.
